@@ -48,7 +48,7 @@
     "uniqCompNum": 58,
     "versionPublish": "4.10.3",
     "screenshot": "screenshot.png",
-    "favicon": "",
+    "favicon": "@PROJECT_PATH@/assets/images/img-2784-128x96.png",
     "noImageResize": "",
     "google-analytics": ""
   },
