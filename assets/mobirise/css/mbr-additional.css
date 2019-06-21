@@ -4622,6 +4622,9 @@ body {
   box-shadow: 0px 0px 30px 0px rgba(0, 0, 0, 0.05);
   transition: box-shadow 0.3s;
 }
+.cid-rtjHrW4ZlD .card-title {
+  text-align: center;
+}
 .cid-rqurutUt0K .navbar {
   padding: .5rem 0;
   background: #333333;
