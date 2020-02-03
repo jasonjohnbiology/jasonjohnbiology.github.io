@@ -2076,6 +2076,20 @@ body {
   color: #232323;
   text-align: left;
 }
+.cid-rPtwQ0AdeN {
+  background: #ffffff;
+  padding-top: 60px;
+  padding-bottom: 60px;
+  background: linear-gradient(0deg, #ffffff, #ffffff);
+}
+.cid-rPtwQ0AdeN .video-block {
+  margin: auto;
+}
+@media (max-width: 768px) {
+  .cid-rPtwQ0AdeN .video-block {
+    width: 100% !important;
+  }
+}
 .cid-rtjy58jNN7 {
   padding-top: 90px;
   padding-bottom: 90px;
@@ -3686,6 +3700,20 @@ body {
   padding-top: 135px;
   padding-bottom: 135px;
   background-image: url("../../../assets/images/beluga-1000x667.jpg");
+}
+.cid-rPtwpFcyHu {
+  background: #ffffff;
+  padding-top: 60px;
+  padding-bottom: 60px;
+  background: linear-gradient(0deg, #ffffff, #ffffff);
+}
+.cid-rPtwpFcyHu .video-block {
+  margin: auto;
+}
+@media (max-width: 768px) {
+  .cid-rPtwpFcyHu .video-block {
+    width: 100% !important;
+  }
 }
 .cid-rtpfTVVNIw {
   padding-top: 90px;
